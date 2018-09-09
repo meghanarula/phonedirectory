@@ -1,0 +1,19 @@
+.footerBody{
+    position: relative;
+    top:114px;
+    font-size: 25px;
+    height: 59px;
+    font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+.footerDiv{
+    height: 100%;
+    width:25%;
+    float: left;
+    background-color:rgb(175, 170, 169);
+    color: rgb(156, 238, 211);
+    padding-top: 8px;
+
+}

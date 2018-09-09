@@ -1,0 +1,28 @@
+.contactBody{
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    height: 460px;
+    font-size: 10px;
+    top: 124px;
+}
+.bodyDiv{
+    height: 497px;
+    float: left;
+    width: 50%;
+
+}
+.alpha{
+    background-color: rgb(175, 171, 171);
+    width:30%;
+    color: white;
+}
+.nameDisp {
+    font-size: 15px;
+    text-align: left;
+}
+.dispName ul , .dispPhone ul{
+    font-size: 15px;
+    list-style: none;
+
+}
+
